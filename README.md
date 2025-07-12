@@ -55,4 +55,4 @@ C言語とncursesライブラリで実装された、クラシックなルドー
 
 このプロジェクトはMITライセンスの下で公開されています。
 
-Copyright (c) 2025 [Yu-lab7]
+Copyright (c) 2025 [WilhelmHeinz]
