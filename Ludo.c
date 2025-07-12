@@ -13,7 +13,7 @@
  * - ゴール、勝利判定、結果表示
  *
  * コンパイル方法 (重要):
- * gcc this_file.c -o Ludo -lncursesw
+ * gcc Ludo.c -o Ludo -lncursesw
  * 
  * clickedの座標がずれている
  * ゴール後も動かせないが判定されてしまうので修正
